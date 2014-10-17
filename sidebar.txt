@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qum:home|Door43 (qum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qum|d43-qum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qum/archive/master.zip|d43-qum.zip]]
+
+**Recent Changes**
+{{changes>ns = qum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qum|Ethnologue data]]
+
